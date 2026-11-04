@@ -1,0 +1,17 @@
+button{
+    margin:0.2rem;
+    padding:0.2rem;
+    color: white;
+    background-color: chartreuse;
+
+}
+
+body{
+    display: flex;
+    background-color: aquamarine;
+    align-items: center;
+    justify-content: center;
+}
+li{
+    list-style-type:none
+}
